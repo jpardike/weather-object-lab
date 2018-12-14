@@ -1268,7 +1268,7 @@ const evanstonWeather = {
                 deg: 64.0016
             },
             snow: {
-                3 h: 0.01
+                "3h": 0.01
             },
             sys: {
                 pod: "d"

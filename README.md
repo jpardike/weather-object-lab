@@ -66,6 +66,8 @@ I'd suggest just getting it working for one piece of data for one day, then all 
     const myWeatherArray = getWeatherArray(evanstonWeather);
     ```
 
+    Changing/improving the organization of code without really changing the functionality is called **refactoring**. You just refactored code. Nice job.  That's something developers do all the time.
+
 8. Write _another_ function `printForecast` that iterates over the array returned by `getWeatherArray` and console.logs the 5-day forecast data like this:<br>
 
     ```
